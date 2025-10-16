@@ -1,5 +1,5 @@
 # About
 
  * [Starterkit and service description](https://github.com/GenomicDataInfrastructure/starter-kit?tab=readme-ov-file#readme)
- * Deployment guide for nodes (TBA)
+ * [Deployment guide for nodes](https://github.com/GenomicDataInfrastructure/starter-kit/blob/main/deployment-guide.md) (TBA)
  * [Current development tracking](https://github.com/orgs/GenomicDataInfrastructure/projects/6)
