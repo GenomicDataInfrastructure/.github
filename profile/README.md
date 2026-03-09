@@ -9,8 +9,8 @@ GDI operates on a federated model consisting of central (European-level) and loc
 
 | Environment | URL | Purpose |
 | --- | --- | --- |
-| Staging | https://portal.staging.gdi.lu/ | It can be used for demonstration and integration testing between local and central services. |
-| Production | https://portal.gdi.lu/ | It is the production environment central services. |
+| Staging | https://portal.staging.gdi.lu/ | It can be used by Nodes for demonstration and integration testing of local components with central components. |
+| Production | https://portal.gdi.lu/ | It is the production environment of central services. |
 
 ## Navigating Our Repositories
 Our organization is structured around several core components and themes. Here is a guide to our most critical repositories:
