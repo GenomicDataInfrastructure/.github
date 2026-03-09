@@ -5,12 +5,12 @@ The Genomic Data Infrastructure (GDI) is a European project, co-funded under the
 Our primary goal is to establish a federated, sustainable, and secure infrastructure to enable cross-border access to human genomic, phenotypic, and clinical data across Europe. By providing this infrastructure, we aim to unlock the potential of genomic data to drive breakthroughs in medical research, advance personalized healthcare, and inform public health policymaking.
 
 ## Deployed Environments
-GDI operates on a federated model consisting of central (European-level) and local (node-level) components. Individual national nodes are responsible to deploy and integrate their services into the central services. The catalogue below lists the environments where end-users can test the central services.
+GDI operates on a federated model consisting of central (European-level) and local (node-level) components. Individual national nodes are responsible to deploy and integrate their services into the central services. The catalogue below lists the environments where end-users can use the central services.
 
 | Environment | URL | Purpose |
 | --- | --- | --- |
-| Staging | https://portal.staging.gdi.lu/ | It can be used for demonstration and integration testing of the GDI services. |
-| Production | https://portal.gdi.lu/ | It is the production environment of the GDI services. |
+| Staging | https://portal.staging.gdi.lu/ | It can be used for demonstration and integration testing between local and central services. |
+| Production | https://portal.gdi.lu/ | It is the production environment central services. |
 
 ## Navigating Our Repositories
 Our organization is structured around several core components and themes. Here is a guide to our most critical repositories:
