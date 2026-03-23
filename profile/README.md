@@ -44,7 +44,6 @@ The User Portal serves as the primary interface for data discovery and access au
 | [CKAN extension for GDI User Portal](https://github.com/GenomicDataInfrastructure/gdi-userportal-ckanext-gdi-userportal) | CKAN extension for GDI User Portal, that implements the metadata model of GDI, based on HealthDCAT-AP. |
 | [DCAT CKAN extension](https://github.com/GenomicDataInfrastructure/gdi-userportal-ckanext-dcat) | A fork of the DCAT CKAN extension, that implements new features for GDI. |
 | [FAIR Data Point CKAN extension](https://github.com/GenomicDataInfrastructure/gdi-userportal-ckanext-fairdatapoint) | The CKAN extension implementation of the FAIR Data Point protocol, that adds new harvesting endpoints to CKAN. |
-| [Dataset Series CKAN extension](https://github.com/GenomicDataInfrastructure/gdi-userportal-ckanext-dataset-series) | A fork of the dataset series CKAN extension, that implements new features for GDI. |
 
 ### 4. Development and Deployment Tracking
 The development and deployment of GDI is tracked using GitHub Projects. Below, one can find links to the development and deployment boards.
